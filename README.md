@@ -27,7 +27,7 @@ The Food Vendor Platform allows food vendors to sign up, sign in, and upload the
       
       APP_PORT = 6001
       
-      DB_URI = mongodb://127.0.0.1:27017/catering
+      DB_URI = mongodb://127.0.0.1:27017/?
       
       TOKEN_SECRET = ""
       
